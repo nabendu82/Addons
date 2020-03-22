@@ -1,6 +1,10 @@
 {
-  "description": "Checks the users time and then shows a new theme every hour.",
-  "homepage_url": "https://github.com/nabendu82/DynamicTravelTheme",
+  "description": "Checks the users time and then shows a new travel theme every hour.",
+  "homepage_url": "https://github.com/nabendu82/Addons",
+  "icons": {
+    "48": "icons/logo_48.png",
+    "64": "icons/logo_64.png"
+  },
   "manifest_version": 2,
   "name": "The Travel Theme",
   "permissions": [
