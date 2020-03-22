@@ -1,0 +1,19 @@
+{
+  "description": "Checks the users time and then shows a new theme every hour.",
+  "homepage_url": "https://github.com/nabendu82/DynamicTravelTheme",
+  "manifest_version": 2,
+  "name": "The Travel Theme",
+  "permissions": [
+    "alarms",
+    "theme"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0a2"
+    }
+  }
+}
