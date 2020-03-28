@@ -1,0 +1,28 @@
+{
+    "description": "Motivates all developers, with awesome inspirational quotes",
+    "homepage_url": "https://github.com/nabendu82/Addons",
+    "icons": {
+        "64": "icons/icon64.png"
+    },
+    "version": "1.0",
+    "manifest_version": 2,
+    "name": "Dev Quotes",
+    "permissions": [
+        "alarms",
+        "notifications"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "browser_action": {
+        "default_icon": "icons/icon64.png",
+        "default_title": "Dev Quotes"
+    },
+    "applications": {
+        "gecko": {
+            "strict_min_version": "55.0a2"
+        }
+    }
+}

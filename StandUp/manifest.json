@@ -1,0 +1,28 @@
+{
+    "description": "Alert all developers, to standup after an hour to live the healthy life and code more",
+    "homepage_url": "https://github.com/nabendu82/Addons",
+    "icons": {
+        "64": "icons/icon.png"
+    },
+    "version": "1.0",
+    "manifest_version": 2,
+    "name": "Please Stand Up",
+    "permissions": [
+        "alarms",
+        "notifications"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "browser_action": {
+        "default_icon": "icons/icon.png",
+        "default_title": "Please Stand Up"
+    },
+    "applications": {
+        "gecko": {
+            "strict_min_version": "55.0a2"
+        }
+    }
+}
