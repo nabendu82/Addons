@@ -1,0 +1,25 @@
+{
+    "applications": {
+        "gecko": {
+            "strict_min_version": "58.0a1"
+        }
+    },
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "Covid-19 World Tracker",
+        "default_icon": {
+            "128": "icons/logo128.png"
+        },
+        "default_popup": "main.html"
+    },
+    "description": "Covid-19 world tracker to get the latest statistics on covid-19",
+    "homepage_url": "https://github.com/nabendu82/Addons",
+    "manifest_version": 2,
+    "name": "Covid-19 World Tracker",
+    "version": "1.0",
+    "icons": {
+        "32": "icons/logo32.png",
+        "64": "icons/logo64.png",
+        "128": "icons/logo128.png"
+    }
+}
