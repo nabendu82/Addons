@@ -1,0 +1,28 @@
+{
+    "description": "Advices to keep you safe during this covid-19 crisis.",
+    "homepage_url": "https://github.com/nabendu82/Addons",
+    "icons": {
+        "512": "icons/icon.png"
+    },
+    "version": "1.0",
+    "manifest_version": 2,
+    "name": "Covid-19 Advices",
+    "permissions": [
+        "alarms",
+        "notifications"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "browser_action": {
+        "default_icon": "icons/icon.png",
+        "default_title": "Covid-19 Advices"
+    },
+    "applications": {
+        "gecko": {
+            "strict_min_version": "55.0a2"
+        }
+    }
+}
