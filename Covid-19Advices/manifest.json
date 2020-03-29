@@ -4,7 +4,7 @@
     "icons": {
         "512": "icons/icon.png"
     },
-    "version": "1.0",
+    "version": "2.0",
     "manifest_version": 2,
     "name": "Covid-19 Advices",
     "permissions": [
@@ -15,10 +15,6 @@
         "scripts": [
             "background.js"
         ]
-    },
-    "browser_action": {
-        "default_icon": "icons/icon.png",
-        "default_title": "Covid-19 Advices"
     },
     "applications": {
         "gecko": {

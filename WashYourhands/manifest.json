@@ -2,9 +2,9 @@
     "description": "A reminder to wash your hand every 60 mins in this covid-19 crisis.",
     "homepage_url": "https://github.com/nabendu82/Addons",
     "icons": {
-        "64": "icons/icon.png"
+        "512": "icons/icon.png"
     },
-    "version": "1.0",
+    "version": "2.0",
     "manifest_version": 2,
     "name": "Wash Your Hands",
     "permissions": [
@@ -15,10 +15,6 @@
         "scripts": [
             "background.js"
         ]
-    },
-    "browser_action": {
-        "default_icon": "icons/icon.png",
-        "default_title": "Wash Your Hands"
     },
     "applications": {
         "gecko": {

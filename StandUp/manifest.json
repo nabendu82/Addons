@@ -4,7 +4,7 @@
     "icons": {
         "64": "icons/icon.png"
     },
-    "version": "1.0",
+    "version": "2.0",
     "manifest_version": 2,
     "name": "Please Stand Up",
     "permissions": [
@@ -15,10 +15,6 @@
         "scripts": [
             "background.js"
         ]
-    },
-    "browser_action": {
-        "default_icon": "icons/icon.png",
-        "default_title": "Please Stand Up"
     },
     "applications": {
         "gecko": {

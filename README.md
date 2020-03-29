@@ -39,3 +39,8 @@ The instruction to create the addon can be found [here](https://medium.com/@nabe
 An efficient way to quickly get a glance of the latest covid-19 statistics from the top covid-19 site https://www.worldometers.info/coronavirus/ in a interactive pop-up.
 You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/covid-19-world-tracker/)
 The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-for-covid-19-5-e8c7119a777c)
+
+## Covid-19 India Tracker
+An efficient way to quickly get a glance of the latest covid-19 statistics from India, in the most updated covid-19 India site https://www.covid19india.org/
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/covid-19-india-tracker/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-for-covid-19-6-1d43998b42c3)
