@@ -34,3 +34,8 @@ Advices to keep you safe during this covid-19 crisis.Will show random covid-19 a
 The idea is to get the public used to these advises by the hourly notifications and implement them in their lives, to save themselves and family from coronavirus.
 You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/covid-19-advices/)
 The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-for-covid-19-4-ba0231a18c25)
+
+## Covid-19 World Tracker
+An efficient way to quickly get a glance of the latest covid-19 statistics from the top covid-19 site https://www.worldometers.info/coronavirus/ in a interactive pop-up.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/covid-19-world-tracker/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-for-covid-19-5-e8c7119a777c)
