@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Blurred Tab",
+  "description": "Opens a random blurred image in new tab, which can be viewed.",
+  "homepage_url": "https://github.com/nabendu82/Addons",
+  "version": "1.0",
+  "icons": {
+    "32": "icons/logo_32.png",
+    "64": "icons/logo_64.png"
+  },
+  "chrome_url_overrides" : {
+    "newtab": "tabs.html"
+  },
+  "applications": {
+    "gecko": {
+        "strict_min_version": "55.0a2"
+    }
+  }
+}
