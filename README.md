@@ -44,3 +44,23 @@ The instruction to create the addon can be found [here](https://medium.com/@nabe
 An efficient way to quickly get a glance of the latest covid-19 statistics from India, in the most updated covid-19 India site https://www.covid19india.org/
 You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/covid-19-india-tracker/)
 The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-for-covid-19-6-1d43998b42c3)
+
+## Blurred Tab
+Opens a random nature blur image from unsplash.com, when you open a new tab. There is a nice slider to reveal the image and see it.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/blurred-tab/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-8-9b4c4d7e9ac0)
+
+## Developer Tab
+When you open a new tab it opens 4 random coding images from unsplash.com, which also gives a random coding quote. On clicking on each image, shows 4 emojis with cool animation.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/developer-tab/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-9-ffc78b734f98)
+
+## The Motivational Tab
+Opens 5 random images, which gives a random motivational quote. On clicking on each image, shows 5 meaningful emojis with animation.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/the-motivational-tab/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-10-459ec9876bb8)
+
+## Simple Motivational Tab
+Opens 5 images, which gives a motivation quote. On clicking on each image, shows 5 more quotes with awesome animation.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/simple-motivational-tab/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-10-459ec9876bb8)
