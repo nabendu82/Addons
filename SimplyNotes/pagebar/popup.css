@@ -1,0 +1,41 @@
+body {
+    width: 350px;
+    background: #FFFB7E;
+}
+
+.flex__box{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    margin: 1em 2em;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow:    0px 4px 3px rgba(0,0,0,0.4),
+                    0px 8px 13px rgba(0,0,0,0.1),
+                    0px 18px 23px rgba(0,0,0,0.1);
+}
+
+#content {
+    font-family: "Gloria Hallelujah", cursive;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    line-height: 1.5;
+    background-color: transparent;
+    border: none;
+    transition: background-color .2s ease-out;
+}
+
+#content[contenteditable=true] {
+    background-color:#FAFAD2;
+    transition: background-color .2s ease-in;
+}
+
+[contenteditable]:focus {
+    outline: 0px solid transparent;
+}
