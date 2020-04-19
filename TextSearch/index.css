@@ -1,0 +1,41 @@
+body {
+    width: 350px;
+    background: #FFFB7E;
+}
+
+legend, label, button {
+    font-family: "Gloria Hallelujah", cursive;
+}
+
+legend {
+    font-size: 1.5rem;
+}
+
+label{
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                0px 8px 13px rgba(0,0,0,0.1),
+                0px 18px 23px rgba(0,0,0,0.1);
+}
+
+button{
+	display:inline-block;
+    border-radius:6px;
+	border:1px solid #a511c0;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:1.2rem;
+	font-weight:bold;
+	padding:6px 18px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #9b14b3;
+    background:linear-gradient(to bottom, #c123de 5%, #a20dbd 100%);
+    background-color:#c123de;
+	box-shadow:inset 0px 1px 0px 0px #e184f3;
+}
+
+button:hover{
+    background:linear-gradient(to bottom, #a20dbd 5%, #c123de 100%);
+	background-color:#a20dbd;
+}
