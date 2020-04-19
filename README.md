@@ -64,3 +64,24 @@ The instruction to create the addon can be found [here](https://medium.com/@nabe
 Opens 5 images, which gives a motivation quote. On clicking on each image, shows 5 more quotes with awesome animation.
 You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/simple-motivational-tab/)
 The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-10-459ec9876bb8)
+
+## Social Distancing
+When user opens a new tab, beautiful images of nature are shown with an important message of social distancing, during this covid-19 crisis.
+When we move the mouse cursor inside the page the images moves away, which conveys the importance of social distancing.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/social-distancing/)
+The instruction to create the addon can be found [here](https://dev.to/nabendu82/creating-firefox-browser-extensions-for-covid-19-11-2fo1)
+
+## Simply Notes
+Displays a pop-up that lets you take note and is saved for viewing later. Just click inside it and write anything. Come back later and you can see the content written by you.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/simply-notes/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-12-182ba96c56c7)
+
+## Website Stats
+Show navigation stats about which pages you've visited, as a beautiful popup on the press of a button. This stat is saved in the browser local storage.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/website-stats/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-13-e37fdb48c2f3)
+
+## Top Visited Sites
+This extension replaces the built-in page shown when the user opens a new tab. The replacement page is populated with links the user had visited the most.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/top-visited-sites/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-14-cfdd90127456)

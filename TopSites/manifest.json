@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Top Sites",
+    "description": "Shows a list of top sites you've visited.",
+    "icons": {
+        "32": "icons/logo_32.png",
+        "64": "icons/logo_64.png",
+        "128": "icons/logo_128.png"
+    },
+    "version": "1.0",
+    "chrome_url_overrides": {
+        "newtab": "sites.html"
+    },
+    "permissions": [
+        "topSites"
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "strict_min_version": "54.0a1"
+        }
+    }
+}
