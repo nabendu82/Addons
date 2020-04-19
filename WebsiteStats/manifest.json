@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "Website Stats",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "icons/logo_64.png",
+        "default_title": "Website Stats",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["webNavigation", "storage"],
+    "background": {
+        "scripts": [ "background.js" ]
+    },
+    "description": "Show stats about which web-pages you've visited.",
+    "icons": {
+        "32": "icons/logo_32.png",
+        "48": "icons/logo_48.png",
+        "64": "icons/logo_64.png"
+    },
+    "applications": {
+        "gecko": {
+            "strict_min_version": "52.0a1"
+        }
+    }
+}

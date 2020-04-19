@@ -1,0 +1,32 @@
+html, body {
+    min-width: 500px;
+    background: #ffc600;
+}
+
+h3 {
+    font-weight: bold;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                0px 8px 13px rgba(0,0,0,0.1),
+                0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.theCount{
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow:  0px 4px 3px rgba(0,0,0,0.4),
+                0px 8px 13px rgba(0,0,0,0.1),
+                0px 18px 23px rgba(0,0,0,0.1);
+}
+
+#hostName{
+    color: blue;
+    text-decoration: underline;
+}
+
+#typeName {
+    font-weight: bold;
+}
+
+ul#hosts, ul#types{
+    list-style-image: url("icons/arrow_16.png");
+}
