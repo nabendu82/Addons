@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+    "name": "List Domain Blocker",
+    "description": "Uses the proxy API to block requests to specific websites.",
+    "version": "2.0",
+    "icons": {
+        "32": "icons/logo_32.png",
+        "64": "icons/logo_64.png",
+        "128": "icons/logo_128.png"
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "strict_min_version": "56.0a1"
+        }
+    },
+    "background": {
+        "scripts": [
+            "background/proxy-handler.js"
+        ]
+    },
+    "options_ui": {
+        "page": "options/options.html",
+        "browser_style": false
+    },
+    "permissions": [
+        "proxy",
+        "storage",
+        "<all_urls>"
+    ]
+}
