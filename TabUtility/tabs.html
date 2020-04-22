@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="tabs.css" />
+</head>
+<body>
+    <div class="panel">
+        <div class="panel-section panel-section-header">
+            <div class="text-section-header">Tab Utility</div>
+        </div>
+        <div class="flex__box">
+            <div class="flex__item">
+                <label class="info__text">Move active tab</label>
+            </div>
+            <div class="flex__item">
+                <button id="tabs-move-beginning">Beginning</button>
+                <button id="tabs-move-end">End</button>
+            </div>
+        </div>
+        <div class="panel-section-separator"></div>
+        <div class="flex__box">
+            <div class="flex__item">
+                <label class="info__text">More Tab Operations</label>
+            </div>
+            <div class="flex__item">
+                <button id="tabs-duplicate">Duplicate</button>
+                <button id="tabs-reload">Reload</button>
+                <button id="tabs-alertinfo">Info</button>
+            </div>
+        </div>
+        <div class="panel-section-separator"></div>
+        <div class="flex__box">
+            <div class="flex__item">
+                <label class="info__text">Create/Close tab</label>
+            </div>
+            <div class="flex__item">
+                <button id="tabs-create">Create</button>
+                <button id="tabs-remove">Close</button>
+            </div>
+        </div>
+        <div class="panel-section-separator"></div>
+        <div class="switch-tabs">
+            <p class="info__text">Switch to tab</p>
+            <div id="tabs-list"></div>
+        </div>
+    </div>
+    <script src="tabs.js"></script>
+</body>
+</html>
