@@ -85,3 +85,18 @@ The instruction to create the addon can be found [here](https://medium.com/@nabe
 This extension replaces the built-in page shown when the user opens a new tab. The replacement page is populated with links the user had visited the most.
 You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/top-visited-sites/)
 The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-14-cfdd90127456)
+
+## Text Search
+Firefox add-on to search selected text in a web page using your favorite search engines(default is Google).
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/text-search/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-15-1561951a00e2)
+
+## List Domain Blocker
+Blocks requests to any webiste that are in user-defined list.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/list-domain-blocker/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-16-bd2fb381d892)
+
+## Tab Utility
+A list of useful operations, like moving, closing, zoom, duplicate that you can perform on a tab.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/tab-utility/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-17-dbb956b8e241)

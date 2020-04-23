@@ -1,0 +1,22 @@
+{
+    "description": "Shows the last downloaded item, and lets you open or delete it",
+    "manifest_version": 2,
+    "name": "Delete Last Download",
+    "version": "1.0",
+    "homepage_url": "https://github.com/nabendu82/Addons",
+    "icons": {
+        "32": "icons/logo_32.png",
+        "64": "icons/logo_64.png",
+        "128": "icons/logo_128.png"
+    },
+    "permissions": [
+        "downloads",
+        "downloads.open"
+    ],
+    "browser_action": {
+        "browser_style": true,
+        "default_icon": "icons/logo_64.png",
+        "default_title": "Delete Last Download",
+        "default_popup": "popup/download.html"
+    }
+}
