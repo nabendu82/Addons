@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="options.css" />
+</head>
+<body>
+    <div class="container">
+        <section class="clear-options">
+            <span class="title">Time range to delete:</span>
+            <select id="since">
+                <option value="hour" selected>Last hour</option>
+                <option value="day">Last day</option>
+                <option value="week">Last week</option>
+                <option value="forever">Forever</option>
+            </select>
+        </section>
+        <section class="check-options data-types">
+            <div class="title">Type of data to delete:</div>
+            <div id="flexCheck">
+                <div>
+                    <label>Downloads</label>
+                    <input type="checkbox" checked="true" data-type="downloads" />
+                </div>
+                <div>
+                    <label>Cache</label>
+                    <input type="checkbox" checked="true" data-type="cache" />
+                </div>
+                <div>
+                    <label>Passwords</label>
+                    <input type="checkbox" data-type="passwords" />
+                </div>
+                <div>
+                    <label>History</label>
+                    <input type="checkbox" checked="true" data-type="history" />
+                </div>
+                <div>
+                    <label>Plugin data</label>
+                    <input type="checkbox" data-type="pluginData" />
+                </div>
+                <div>
+                    <label>Form data</label>
+                    <input type="checkbox" data-type="formData" />
+                </div>
+                <div>
+                    <label>Cookies</label>
+                    <input type="checkbox" data-type="cookies" />
+                </div>
+                <div>
+                    <label>Service workers</label>
+                    <input type="checkbox" data-type="serviceWorkers" />
+                </div>
+            </div>
+        </section>
+        <input type="button" value="Save preferences" id="save-button" />
+    </div>
+    <script src="options.js"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+{
+    "description": "Allows the user to remove history, passwords, downloads, serviceWorkers",
+    "manifest_version": 2,
+    "name": "Delete Everything",
+    "version": "1.0",
+    "homepage_url": "https://github.com/nabendu82/Addons",
+    "icons": {
+        "32": "icons/logo_32.png",
+        "64": "icons/logo_64.png",
+        "128": "icons/logo_128.png"
+    },
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "browser_action": {
+        "default_icon": "icons/logo_64.png",
+        "default_title": "Delete it!"
+    },
+    "options_ui": {
+        "page": "options/options.html",
+        "browser_style": false
+    },
+    "permissions": [
+        "browsingData",
+        "notifications",
+        "storage"
+    ]
+}
