@@ -1,0 +1,20 @@
+html, body {
+    min-width: 500px;
+    background: #ffc600;
+}
+
+#header-title {
+    font-weight: bold;
+}
+
+#cookie-list {
+    font-size: 15px;
+}
+
+.panel {
+    padding: 5px;
+}
+
+li {
+    margin-bottom: 5px;
+}

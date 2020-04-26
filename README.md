@@ -115,3 +115,8 @@ The instruction to create the addon can be found [here](https://medium.com/@nabe
 Allows the user to remove history, passwords, downloads, serviceWorkers.
 You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/delete-everything/)
 The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-21-915515c7907f)
+
+## Search Word Tabs
+Allows the user to search any word across all your open tabs.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/search-word-tabs/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-22-e9cbcc433430)
