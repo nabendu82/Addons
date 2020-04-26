@@ -100,3 +100,18 @@ The instruction to create the addon can be found [here](https://medium.com/@nabe
 A list of useful operations, like moving, closing, zoom, duplicate that you can perform on a tab.
 You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/tab-utility/)
 The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-17-dbb956b8e241)
+
+## Delete Last Download
+Shows the last downloaded item, and lets you open or delete it. If the user presses delete, the file is removed from disk and from the browser's downloads history.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/delete-last-download/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-19-94aeed525382)
+
+## Website History Delete
+Allows the user to delete history of a particular website.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/website-history-delete/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-20-5f3401fd72f2)
+
+## Delete Everything
+Allows the user to remove history, passwords, downloads, serviceWorkers.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/delete-everything/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-21-915515c7907f)

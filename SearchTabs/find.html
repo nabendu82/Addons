@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="find.css" />
+</head>
+<body>
+    <fieldset>
+        <legend>Search Across tabs</legend>
+        <p>Search across all the tabs and highlight the results in those tabs.</p>
+        <p><b>Please note</b>: this tab is excluded from the search.</p>
+        <form id="find-form">
+            <div>
+                <label for="find-input"> Search: </label>
+                <input type="text" id="find-input" name="find-display" placeholder="Some text to find" required />
+                <span></span>
+            </div>
+            <div>
+                <button type="submit" class="submit">Submit</button>
+            </div>
+        </form>
+        <hr>
+        <h3>Results</h3>
+        <ul id="result-list">
+        </ul>
+    </fieldset>
+    <script src="find.js"></script>
+</body>
+</html>
