@@ -1,0 +1,31 @@
+{
+    "applications": {
+    "gecko": {
+        "strict_min_version": "58.0a1"
+    }
+    },
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "Read Mode",
+        "default_icon": {
+            "64": "icons/logo_64.png"
+        }
+    },
+    "description": "User can change page to reader mode if available.",
+    "homepage_url": "https://github.com/nabendu82/Addons",
+    "manifest_version": 2,
+    "name": "Read Mode",
+    "permissions": [
+        "tabs",
+        "notifications"
+    ],
+    "version": "1.0",
+    "icons": {
+        "32": "icons/logo_32.png",
+        "48": "icons/logo_48.png",
+        "64": "icons/logo_64.png"
+    }
+}

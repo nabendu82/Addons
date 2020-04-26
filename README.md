@@ -120,3 +120,8 @@ The instruction to create the addon can be found [here](https://medium.com/@nabe
 Allows the user to search any word across all your open tabs.
 You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/search-word-tabs/)
 The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-22-e9cbcc433430)
+
+## List Tab Cookies
+List all cookies in the active tab.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/list-tab-cookies/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-23-d8d5272e6a29)
