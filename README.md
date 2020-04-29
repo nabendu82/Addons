@@ -125,3 +125,13 @@ The instruction to create the addon can be found [here](https://medium.com/@nabe
 List all cookies in the active tab.
 You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/list-tab-cookies/)
 The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-23-d8d5272e6a29)
+
+## My Read Mode
+User can change current page to reader mode if available.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/my-read-mode/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-24-5388a82f8424)
+
+## Mobile View Tester
+User can test the look of a website on different mobile devices.
+You can add this addon to firefox [here](https://addons.mozilla.org/en-US/firefox/addon/mobile-view-tester/)
+The instruction to create the addon can be found [here](https://medium.com/@nabendu82/creating-firefox-browser-extensions-25-be84ca4138e5)
