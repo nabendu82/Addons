@@ -1,0 +1,20 @@
+{
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "Mobile View Tester",
+        "default_popup": "window.html",
+        "default_icon": {
+            "64": "icons/logo_64.png"
+        }
+    },
+    "icons": {
+        "32": "icons/logo_32.png",
+        "64": "icons/logo_64.png",
+        "128": "icons/logo_128.png"
+    },
+    "description": "Test the look of a website on different mobile devices",
+    "homepage_url": "https://github.com/nabendu82/Addons",
+    "manifest_version": 2,
+    "name": "Mobile View Tester",
+    "version": "1.0"
+}
